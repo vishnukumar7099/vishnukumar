@@ -1,0 +1,383 @@
+@media screen and (max-width:1025px) {
+    header ul {
+        margin-left: -8rem;
+    }
+    .hero img {
+        width: 306px;
+        height: 504px;
+        right: 0rem;
+        zoom: 100%;
+    }
+    .divide {
+        margin-right: -11rem;
+    }
+    .divide-line.right {
+        margin-right: -86px;
+    }
+    .section-title h1 {
+        top: 46rem;
+        left: 300px;
+    }
+    .section-title h2 {
+        margin-left: 530px;
+    }
+    .section-title p {
+        right: 1rem;
+        width: 620px;
+    }
+    .section-title img {
+        left: 11rem;
+        top: 84.8rem;
+    }
+    .page_divide {
+        margin: 35.6rem 0rem;
+    }
+    .skills h2 {
+        left: 240px;
+        top: 1376px;
+    }
+    .skills p {
+        left: 330px;
+        top: 1514px;
+    }
+    .skills .teamwork-bar p a {
+        right: 116px;
+    }
+    .skills .uxdesign-bar p a {
+        right: 116px;
+    }
+    .skills .sketching-bar p a {
+        right: 116px;
+    }
+    .skills .webdesign-bar p a {
+        right: 118px;
+    }
+    .skills .python-bar p a {
+        right: 118px;
+    }
+    .skills .html_css-bar p a {
+        right: 118px;
+    }
+    .skills .teamwork-bar .outbox {
+        left: 6.8rem;
+    }
+    .skills .uxdesign-bar .outbox {
+        left: 6.8rem;
+    }
+    .skills .sketching-bar .outbox {
+        left: 6.8rem;
+    }
+    .skills .webdesign-bar .outbox {
+        left: 38.2rem;
+    }
+    .skills .python-bar .outbox {
+        left: 38.2rem;
+    }
+    .skills .html_css-bar .outbox {
+        left: 38.2rem;
+    }
+    .page--divide {
+        margin: -2rem 0rem;
+    }
+    .divide2 {
+        margin-right: -11rem;
+    }
+    .divide--line.right {
+        margin-right: -86px;
+    }
+    .academics h2 {
+        left: 298px;
+        top: 130.8;
+    }
+    .academics p {
+        left: 370px;
+        top: 137rem;
+    }
+    .academics .card {
+        left: 40px;
+    }
+    .page__divide {
+        margin: 16rem 0rem;
+    }
+    .contact h2 {
+        left: 15rem;
+        top: 176.6rem;
+    }
+    .contact p {
+        left: 25.8rem;
+        top: 184rem;
+    }
+    .foot {
+        margin-top: 0rem;
+    }
+    .page___divide p {
+        margin-top: 4rem;
+    }
+}
+
+@media screen and (max-width:770px) {
+    header ul {
+        margin-left: -10rem;
+    }
+    .hero p {
+        width: 600px;
+        margin-top: 98px;
+    }
+    .hero img {
+        width: 308px;
+        height: 500px;
+        right: -16rem;
+    }
+    .page-divide {
+        margin-right: -14.2rem;
+    }
+    .section-title h1 {
+        width: 490px;
+        top: 738px;
+    }
+    .section-title h2 {
+        top: 840px;
+        min-width: 200px;
+        margin-left: 480px;
+    }
+    .section-title p {
+        width: 550px;
+        right: -11.6rem;
+        top: 58.8rem;
+    }
+    .section-title img {
+        zoom: 64%;
+        left: 12.8rem;
+        top: 86rem;
+    }
+    .divide1 {
+        margin-left: 150px;
+    }
+    .divide_line {
+        width: 60%;
+    }
+    .title {
+        max-width: 802px;
+    }
+    .skills h2 {
+        width: 678px;
+    }
+    .abhi {
+        font-size: 15px;
+        top: 1512px;
+    }
+    .skills .teamwork-bar .outbox {
+        left: 6rem;
+    }
+    .skills .uxdesign-bar .outbox {
+        left: 6rem;
+    }
+    .skills .sketching-bar .outbox {
+        left: 6rem;
+    }
+    .skills .webdesign-bar .outbox {
+        left: 36rem;
+    }
+    .skills .python-bar .outbox {
+        left: 36rem;
+    }
+    .skills .html_css-bar .outbox {
+        left: 36rem;
+    }
+    .page--divide {
+        margin-right: -14.2rem;
+    }
+    .academics h2 {
+        left: 280px;
+    }
+    .academics p {
+        width: 600px;
+        left: 340px;
+    }
+    .academics .card {
+        margin: 18px;
+    }
+    .contact h2 {
+        left: 16rem;
+    }
+    .contact p {
+        left: 26.8rem;
+    }
+    .foot {
+        margin-top: 0rem;
+        justify-content: space-between;
+        margin: 1rem 3rem;
+    }
+    .page___divide {
+        width: 66rem;
+    }
+    .divide___line {
+        width: 78%;
+    }
+    .page___divide p {
+        margin-top: 3.5rem;
+    }
+    .divide3 {
+        margin-left: 150px;
+    }
+    .divide__line {
+        width: 60%;
+    }
+    .foot {
+        margin: 1rem -4rem;
+        margin-left: 10rem;
+    }
+}
+
+@media screen and (max-width:426px) {
+    .title {
+        margin-left: 26px;
+    }
+    .hero p {
+        font-size: 3.2rem;
+        margin-bottom: -6rem;
+        min-width: 500px;
+    }
+    .hero p a {
+        font-size: 3.4rem;
+    }
+    .hero img {
+        max-width: 600px;
+        margin-right: -20rem;
+    }
+    .page-divide {
+        margin-right: -34.2rem;
+    }
+    .section-title h1 {
+        width: 468px;
+    }
+    .section-title h2 {
+        font-size: 18px;
+    }
+    .section-title p {
+        position: absolute;
+        min-height: 560px;
+        left: 395px;
+        margin-top: 46px;
+        font-size: 1.2rem;
+    }
+    .divide1 {
+        margin-right: -402px;
+    }
+    .divide_line.left {
+        min-width: 115%;
+    }
+    .skills h2 {
+        max-width: 560px;
+    }
+    .abhi {
+        left: 370px;
+        width: 600px;
+    }
+    .skills p {
+        font-size: 0.8rem;
+        margin-left: 37px;
+    }
+    .skills .teamwork-bar p a {
+        left: -356px;
+    }
+    .skills .uxdesign-bar p a {
+        left: -356px;
+    }
+    .skills .sketching-bar p a {
+        left: -356px;
+    }
+    .skills .webdesign-bar p a {
+        left: -358px;
+    }
+    .skills .python-bar p a {
+        left: -358px;
+    }
+    .skills .html_css-bar p a {
+        left: -358px;
+    }
+    .divide2 {
+        margin-left: 424px;
+    }
+    .divide--line.right {
+        left: 630px;
+        min-width: 66%;
+    }
+    .academics h2 {
+        margin-left: 1px;
+    }
+    .academics .box {
+        margin-left: 26px;
+    }
+    .academics .card {
+        left: -1px;
+    }
+    .divide3 {
+        margin-right: -326px;
+    }
+    .divide__line.left {
+        left: 2px;
+        min-width: 104%;
+    }
+    .contact h2 {
+        margin-left: 8px;
+    }
+    .contact p {
+        width: 400px;
+        margin-left: 2px;
+    }
+    .social-media {
+        min-width: 200px;
+        position: absolute;
+        left: 500px;
+    }
+}
+
+@media screen and (max-width:376px) {
+    header ul {
+        left: 826px;
+    }
+    .hero p {
+        margin-left: 2px;
+    }
+    .divide-line.right {
+        right: -46px;
+    }
+    .divide {
+        margin-left: 80px;
+    }
+    .divide_line.left {
+        left: 2px;
+    }
+    .divide1 {
+        position: absolute;
+        left: 282px;
+    }
+    .divide--line.right {
+        margin-left: 25px;
+    }
+    .divide2 {
+        position: absolute;
+        left: 224px;
+    }
+    .divide3 {
+        position: absolute;
+        left: 245px;
+    }
+    .foot {
+        min-width: 600px;
+    }
+}
+
+@media screen and (max-width:321px) {
+    .page-divide {
+        right: -52px;
+    }
+    .page--divide {
+        right: -36px;
+    }
+    .divide__line.left {
+        margin-left: 2px;
+        min-width: 122%;
+    }
+}
